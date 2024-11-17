@@ -1,4 +1,4 @@
-![AI Advisory Bot Cover](docs/assets/cover.png)
+![AI Advisory Bot Cover](docs/assets/cover.webp)
 
 ---
 
