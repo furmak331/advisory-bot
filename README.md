@@ -1,3 +1,4 @@
+![AI Advisory Bot Cover](docs/assets/cover.png)
 
 ---
 
